@@ -37,10 +37,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.jp/citations?user=xuLKJboAAAAJ&hl=en
+###social:
+###- icon: google-scholar
+###  icon_pack: ai
+###  link: https://scholar.google.co.jp/citations?user=xuLKJboAAAAJ&hl=en
 ##- icon: github
 ###  icon_pack: fab
 ###  link: 
