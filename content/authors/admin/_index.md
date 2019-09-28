@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Masatoshi 
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd Student
-
-# Organizations/Affiliations
-organizations:
-- name: Harvard University
-  url: ""
+role: Professor of Artificial Intelligence
 
 # Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Reinforcement Learning
-- Causal inference, Missing data
-- Computational Statsitics
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2017-2022
-  - course: BSc in Applied Mathematics
-    institution: The University of Tokyo
-    year: 2017
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,6 +49,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+###- icon: google-scholar
+###  icon_pack: ai
+###  link: https://scholar.google.co.jp/citations?user=xuLKJboAAAAJ&hl=en
+##- icon: github
+###  icon_pack: fab
+###  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a third-year PhD student at Haravrd in Statistics Department. I am interested in theory and method for sequential decisiong making. 
