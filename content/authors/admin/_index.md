@@ -12,15 +12,6 @@ superuser: true
 # Role/position
 role: Professor of Artificial Intelligence
 
-# Organizations/Affiliations
-organizations:
-<<<<<<< HEAD
-- name: Statistics Department, Harvard University
-=======
-- name: Stanford University
->>>>>>> parent of 8da0daf... short
-  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
