@@ -10,28 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd Student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
+<<<<<<< HEAD
 - name: Statistics Department, Harvard University
+=======
+- name: Stanford University
+>>>>>>> parent of 8da0daf... short
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Reinforcement Learning
-- Causal inference, Missing data
-- Computational Statsitics
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2017-2022
-  - course: BSc in Applied Mathematics
-    institution: The University of Tokyo
-    year: 2017
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
