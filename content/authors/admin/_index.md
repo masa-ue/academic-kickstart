@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Masatoshi 
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -11,6 +11,11 @@ superuser: true
 
 # Role/position
 role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations
+organizations:
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,12 +54,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-###- icon: google-scholar
-###  icon_pack: ai
-###  link: https://scholar.google.co.jp/citations?user=xuLKJboAAAAJ&hl=en
-##- icon: github
-###  icon_pack: fab
-###  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year PhD student at Haravrd in Statistics Department. I am interested in theory and method for sequential decisiong making. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
