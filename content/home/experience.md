@@ -22,7 +22,6 @@ date_format = "Jan 2006"
   title = "Visiting Scholar"
   company = "UIUC"
   date_start = "2019-09-01"
-  date_end = "---"
   description = "mentor: Nan Jiang"
   
 [[experience]]
