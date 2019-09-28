@@ -21,30 +21,29 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting Scholar"
   company = "UIUC"
-  date_start = "2019-09"
+  date_start = "2019-09-01"
   date_end = "---"
   description = "mentor: Nan Jiang"
   
 [[experience]]
   title = "Visiting Scholar"
   company = "Cornell Tech"
-  location = "California"
-  date_start = "2019-05"
-  date_end = "2019-08"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
   description = "mentor: Nathan Kallus"
   
 [[experience]]
   company = "Iowa State University"
-  date_start = "2018-06"
-  date_end = "2018-08"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
   description = "mentor: Jae Kwang Kim"
   
 [[experience]]
   title = "Internship"
   company = "Preferred Networks"
   company_url = ""
-  date_start = "2017-07"
-  date_end = "2017-08"
+  date_start = "2017-07-01"
+  date_end = "2017-08-01"
   description = "mentor: Ono Kenta"
  
 
