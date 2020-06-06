@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *ICML2020*" 
-publication_short = "IN *ICML 2020*"
+publication_short = "In *ICML 2020*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
