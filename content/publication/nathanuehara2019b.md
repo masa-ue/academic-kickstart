@@ -16,11 +16,11 @@ authors = ["Nathan Kallus", "Masatoshi Uehara"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-###publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-###publication_short = "In *ICA*"
+publication = "In *ICML 2020*. 
+##publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
