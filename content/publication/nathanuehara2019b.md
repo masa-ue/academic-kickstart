@@ -1,8 +1,8 @@
 +++
-title = "Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning"
+title = "Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes"
 
 # Date first published.
-date = "2019-05-01"
+date = "2019-08-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nathan Kallus", "Masatoshi Uehara"]
@@ -19,8 +19,8 @@ authors = ["Nathan Kallus", "Masatoshi Uehara"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *NeuRIPS 2019*"
-publication_short = "In *Neurips 2019*"
+publication = "In *ICML2020*" 
+publication_short = "IN *ICML 2020*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -39,8 +39,15 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1906.03735"
-
+url_pdf = "https://arxiv.org/abs/1908.08526"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -60,4 +67,4 @@ highlight = true
 
 +++
 
-
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.

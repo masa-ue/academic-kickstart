@@ -1,8 +1,8 @@
 +++
-title = "Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning"
+title = "Efficiently Breaking the Curse of Horizon: Double Reinforcement Learning in Infinite-Horizon Processes"
 
 # Date first published.
-date = "2019-05-01"
+date = "2019-09-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nathan Kallus", "Masatoshi Uehara"]
@@ -16,11 +16,11 @@ authors = ["Nathan Kallus", "Masatoshi Uehara"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *NeuRIPS 2019*"
-publication_short = "In *Neurips 2019*"
+###publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+###publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -39,8 +39,15 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1906.03735"
-
+url_pdf = "https://arxiv.org/abs/1909.05850"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -60,4 +67,4 @@ highlight = true
 
 +++
 
-
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
