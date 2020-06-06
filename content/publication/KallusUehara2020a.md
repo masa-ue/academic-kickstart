@@ -5,7 +5,7 @@ title = "Statistically Efficient Off-Policy Policy Gradients"
 date = "2020-02-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nathan Kallus", "Masatoshi Uehara"]
+authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 
 # Publication type.
 # Legend:

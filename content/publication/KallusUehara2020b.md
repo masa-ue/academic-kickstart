@@ -1,8 +1,8 @@
 +++
-title = "Efficiently Breaking the Curse of Horizon: Double Reinforcement Learning in Infinite-Horizon Processes"
+title = "Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies"
 
 # Date first published.
-date = "2019-09-12"
+date = "2020-06-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nathan Kallus", "Masatoshi Uehara*"]
@@ -19,8 +19,8 @@ authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-###publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-###publication_short = "In *ICA*"
+#publication = "In *ICML 2020*"
+#publication_short = "In *ICML 2020*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
@@ -39,15 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1909.05850"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf = "https://arxiv.org/abs/2002.04014"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -67,4 +60,4 @@ highlight = true
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+

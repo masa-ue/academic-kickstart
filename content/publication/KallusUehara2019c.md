@@ -5,7 +5,7 @@ title = "Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for 
 date = "2019-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nathan Kallus", "Masatoshi Uehara"]
+authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 
 # Publication type.
 # Legend:

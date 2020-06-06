@@ -5,7 +5,7 @@ title = "Off-Policy Evaluation and Learning for External Validity under a Covari
 date = "2020-02-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Masahiro Kato", "Masatoshi Uehara", "Shota Yasui"]
+authors = ["Masahiro Kato", "Masatoshi Uehara*", "Shota Yasui"]
 
 # Publication type.
 # Legend:

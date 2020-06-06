@@ -5,7 +5,7 @@ title = "Localized Debiased Machine Learning: Efficient Estimation of Quantile T
 date = "2019-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nathan Kallus", "Masatoshi Uehara"]
+authors = ["Nathan Kallus","Xiojie Mao" ,"Masatoshi Uehara**"]
 
 # Publication type.
 # Legend:

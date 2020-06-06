@@ -5,7 +5,7 @@ title = "Double Reinforcement Learning for Efficient Off-Policy Evaluation in Ma
 date = "2019-08-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nathan Kallus", "Masatoshi Uehara"]
+authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 
 # Publication type.
 # Legend:

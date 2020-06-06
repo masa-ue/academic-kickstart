@@ -1,6 +1,7 @@
 ---
-title: Publications
-
+title: Publications 
+subtitle: Asterisk * means I am the corresponding author or co-firat author, ** means an alphabetic ordering.
+#subtitle: * means I am the corresponding author or co-firat author, ** means an alphabetic ordering
 # View.
 #   1 = List
 #   2 = Compact
@@ -10,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "AA"
   image: ""
 ---
