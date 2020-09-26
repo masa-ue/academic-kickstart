@@ -16,10 +16,10 @@ authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-###publication = "In *ICML 2020*"
+publication = "In *Neurips 2020*"
 ###publication_short = "In *ICML 2020*"
 
 # Abstract and optional shortened version.

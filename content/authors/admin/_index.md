@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard University
+- name: Cornell University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics
-    institution: Haravrd University
-    year: 2017-2022
+  - course: PhD in Computer Science
+    institution: Cornell University
+    year: 2020-2023
+  - course: MS in Statistics
+    institution: Harvard University
+    year: 2017-2020
   - course: BE in Applied Mathematics
     institution: University of Tokyo
     year: 2013-2017
@@ -57,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year PhD student at Harvard in Statistics Department. I am interested in theory and method for sequential decision making. 
+I am a first-year PhD student at Cornell in Computer Science Department. I am interested in theory and method for sequential decision making. 

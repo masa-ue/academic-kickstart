@@ -5,7 +5,7 @@ title = "Off-Policy Evaluation and Learning for External Validity under a Covari
 date = "2020-02-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Masahiro Kato", "Masatoshi Uehara*", "Shota Yasui"]
+authors = [ "Masatoshi Uehara*", "Masahiro Kato","Shota Yasui"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Masahiro Kato", "Masatoshi Uehara*", "Shota Yasui"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-###publication = "In *NeuRIPS 2019*"
-###publication_short = "In *Neurips 2019*"
+publication = "In *Neurips 2020*"
+###publication_short = "In *Neurips 20*"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
