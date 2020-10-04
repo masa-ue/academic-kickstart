@@ -28,8 +28,8 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Cornell University
-    year: 2020-2023
-  - course: MS in Statistics
+    year: 2020-
+  - course: MS in Statistics 
     institution: Harvard University
     year: 2017-2020
   - course: BE in Applied Mathematics
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year PhD student at Cornell in Computer Science Department. I am interested in theory and method for sequential decision making. 
+I am a PhD student at Cornell in Computer Science Department. I am interested in theory and method for sequential decision making. 
