@@ -16,11 +16,11 @@ authors = ["Nathan Kallus", "Masatoshi Uehara*"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Neurips 2020*"
-###publication_short = "In *ICML 2020*"
+###publication = " *"
+###publication_short = "  *"
 
 # Abstract and optional shortened version.
 ###abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."

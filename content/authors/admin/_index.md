@@ -22,13 +22,15 @@ organizations:
 interests:
 - Reinforcement learning
 - Causal inference
+- Online learning
+- Application to marketing
 
-education:
+education: 
   courses:
   - course: PhD in Computer Science
     institution: Cornell University
     year: 2020-
-  - course: MS in Statistics (Transferred a phd status to Cornell) 
+  - course: MS in Statistics (Transferred a PhD status to Cornell) 
     institution: Harvard University
     year: 2017-2020 
   - course: BE in Applied Mathematics
