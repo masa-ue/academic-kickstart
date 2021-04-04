@@ -22,19 +22,22 @@ organizations:
 interests:
 - Reinforcement learning
 - Causal inference
-- Computational Statistics
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Cornell University
     year: 2020-
-  - course: MS in Statistics 
+  - course: MS in Statistics (Transferred a phd status to Cornell) 
     institution: Harvard University
-    year: 2017-2020
+    year: 2017-2020 
   - course: BE in Applied Mathematics
     institution: University of Tokyo
     year: 2013-2017
+    
+###Service:
+###-  Conferences: ICML (2020), Neurips (2020), AISTATS (2020,2021)
+####-  Journals:  Journal of Machine Learning Research, Journal of the American Statistical Association, Annals of the Institute of Statistical Mathematics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,7 +54,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mu223@cornell.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

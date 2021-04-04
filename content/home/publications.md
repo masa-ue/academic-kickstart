@@ -3,12 +3,12 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = true # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight =30  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Asterisk * means I am the corresponding author or co-firat author, ** means an alphabetic ordering. For full publications. please refer to the link in the header."
+subtitle = "Asterisk * means I am the corresponding author or co-firat author, ** means an alphabetic ordering. For full publications. please refer to the link in the header. (The update stopped in 2020. Please refer to CV for recent publications. "
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
